@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.205">
+    <properties></properties>
+
+
+
+            <testcase
+                name="createAccountUser"
+                time="4.924"
+                classname="Sanity.CreateAccountTest">
+            </testcase>
+            <testcase
+                name="validateReistrationForm"
+                time="1.281"
+                classname="Sanity.CreateAccountTest">
+            </testcase>
+</testsuite>

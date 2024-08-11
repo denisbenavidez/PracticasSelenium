@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="Test">
+        <groups>
+            <run>
+                <include name="smokeTest"/> <!--Incluimos las agrupaciones de caso de pruebas que deseamos-->
+            </run>
+        </groups>
+
+        <classes>
+            <class name="Sanity.CreateAccountTest"/> <!--Le ponemos que nos incluya todos los casos de prueba que estan en nuestra clase CreateAccountTest-->
+        </classes>
+    </test>
+</suite>

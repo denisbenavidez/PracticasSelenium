@@ -1,0 +1,2 @@
+Al ya estar completo el proyecto en las respectiva rama main omite la creacion de una nueva en base a esta
+para realizar el proyecto desde 0
